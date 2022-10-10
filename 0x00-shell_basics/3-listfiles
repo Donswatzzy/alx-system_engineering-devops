@@ -1,0 +1,2 @@
+#!/bin/bash 
+-rwxr-xr-x 1 root root 98 Oct  9 17:44 0-current_working_directory -rwxr-xr-x 1 root root 62 Oct  9 17:57 1-listit -rw-r--r-- 1 root root 69 Oct  9 18:01 2-bring_me_home -rw-r--r-- 1 root root 11 Oct  8 01:01 README.md \
